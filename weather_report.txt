@@ -1,0 +1,11 @@
+D:\WEATHER_REPORT>d:\WEATHER_REPORT\weather_report.py
+Enter city name: PUNE,IN
+STATUS CODE: 200
+RAW RESPONSE: {"coord":{"lon":73.8553,"lat":18.5196},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":24.11,"feels_like":23.73,"temp_min":24.11,"temp_max":24.11,"pressure":1013,"humidity":44,"sea_level":1013,"grnd_level":940},"visibility":10000,"wind":{"speed":2.25,"deg":325,"gust":3.48},"clouds":{"all":5},"dt":1767359013,"sys":{"type":2,"id":2104163,"country":"IN","sunrise":1767317822,"sunset":1767357570},"timezone":19800,"id":1259229,"name":"Pune","cod":200}
+
+  Weather Report
+City: Pune
+Humidity: 44 %
+Wind Speed: 2.25 m/s
+Wind Direction: 325 degrees
+Condition: clear sky
